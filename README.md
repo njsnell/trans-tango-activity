@@ -2,6 +2,8 @@
 
 Code used for data analysis in "Complex Representation of Taste Quality by Second-Order Gustatory Neurons in Drosophila" by Snell et al.
 
+Contains MATLAB scripts used for analysis (A1,A2,A3) plus associated MATLAB functions, and ImageJ macro for heatmap visualization
+
 Three main MATLAB scripts:
 
 1) A1_Preprocessing
@@ -23,3 +25,4 @@ Input: Cell arrays of SC (spatial components) and TC (temporal components), the 
 Used to generate heatmaps to visualize stimulus response.
 
 Input: mocoPlanesAll.mat file generated in A1 script.
+ 
