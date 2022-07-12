@@ -9,6 +9,7 @@ Three main MATLAB scripts:
 Used to preprocess imaging data.
 
 Input: Folder with tif stacks of imaging data, each stack containing 1 individual trial from 1 fly
+
 Outputs: mocoPlanesAll.mat file (.mat file containing all motion-corrected imaging data from 1 fly), SC (spatial components of ROIs from 1 fly), TC (temporal components of ROIs from 1 fly)
 
 2) A2_AnalyzeROIs
